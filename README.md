@@ -1,2 +1,2 @@
 # demo-repo
-introducion github
+introducion git
