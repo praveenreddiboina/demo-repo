@@ -1,0 +1,2 @@
+# newsmart
+news mart application
